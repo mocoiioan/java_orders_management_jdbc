@@ -1,0 +1,7 @@
+module:com.example.assignment3
+com.example.assignment3
+com.example.assignment3.BusinessLogic
+com.example.assignment3.Connection
+com.example.assignment3.DataAccess
+com.example.assignment3.Model
+com.example.assignment3.Presentation
